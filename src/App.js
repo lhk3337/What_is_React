@@ -31,5 +31,3 @@ class App extends React.Component {
 }
 
 export default App;
-// https://mtops.hmc.co.kr/e.jsp?P=FmsU5P-ILWjqnvmp73fim I-blnJp38hZnTDqPJUDMLh L9GXCD5yv0A
-// https://mtops.hmc.co.kr/e.jsp?P=FmsU5P-ILWjqnvmp73fim NSs7Gont8ruH3X0HZyhACt L9GXCD5yv0A
